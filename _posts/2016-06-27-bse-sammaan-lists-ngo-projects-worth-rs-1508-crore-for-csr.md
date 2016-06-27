@@ -58,8 +58,8 @@ isBasedOnUrl: >-
 title: >-
   BSE Sammaan lists NGO projects worth Rs 1,508 crore for CSR - The Economic
   Times
-datePublished: '2016-06-27T15:28:30.241Z'
-dateModified: '2016-06-27T15:28:19.060Z'
+datePublished: '2016-06-27T15:28:56.860Z'
+dateModified: '2016-06-27T15:28:42.314Z'
 starred: false
 sourcePath: >-
   _posts/2016-06-27-bse-sammaan-lists-ngo-projects-worth-rs-1508-crore-for-csr.md
