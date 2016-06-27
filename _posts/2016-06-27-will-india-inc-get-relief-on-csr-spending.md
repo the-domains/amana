@@ -41,10 +41,10 @@ app_links:
 isBasedOnUrl: >-
   http://www.thehindubusinessline.com/companies/will-india-inc-get-relief-on-csr-spending/article8776010.ece
 title: Will India Inc get relief on CSR spending?
-datePublished: '2016-06-27T15:24:40.038Z'
-dateModified: '2016-06-27T15:24:36.650Z'
-starred: true
+datePublished: '2016-06-27T15:24:56.249Z'
+dateModified: '2016-06-27T15:24:47.491Z'
 sourcePath: _posts/2016-06-27-will-india-inc-get-relief-on-csr-spending.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
