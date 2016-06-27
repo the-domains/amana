@@ -1,5 +1,6 @@
-layout_spectrum: 0.3568241405300796
 typography_spectrum: 0.4198137605562806
+content_rating:
+  adult: false
 color:
   brandStrength: 0.0886497600004077
   lightness: 0.26414621621370316
@@ -11,4 +12,13 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
+layout_spectrum: 0.3568241405300796
+author:
+  name: Ravi Narain
+  email: ravi@amanaone.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0725135a-2b95-45f0-925a-315f34b8d87d.jpg
 name: Amana
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a97e6b2a-4809-45ed-b9b2-8232dfd1c0ff.ico
+title: Changing India through CSR.
