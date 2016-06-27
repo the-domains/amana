@@ -40,10 +40,10 @@ app_links:
 isBasedOnUrl: >-
   http://www.huffingtonpost.in/arvind-passey/a-playfield-called-csr_b_10060494.html
 title: Why CSR Is As Vital To A Company As Sales Or Marketing
-datePublished: '2016-06-27T15:05:51.560Z'
-dateModified: '2016-06-27T15:05:44.144Z'
-starred: false
+datePublished: '2016-06-27T15:25:06.083Z'
+dateModified: '2016-06-27T15:25:04.800Z'
 sourcePath: _posts/2016-06-27-why-csr-is-as-vital-to-a-company-as-sales-or-marketing.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
